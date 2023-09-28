@@ -7,7 +7,7 @@ This project is a sincere attempt by MSTC, DA-IICT to encourage Open Source cont
 
 ---
 
->This is a HTML/CSS/JS project for Hactoberfest 2022, maintained by MSTC DA-IICT.
+>This is a HTML/CSS/JS project for Hactoberfest 2023, maintained by MSTC DA-IICT.
 
 >We are trying a to build a multiplayer chess game.
 
