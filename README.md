@@ -13,7 +13,6 @@ This project is a sincere attempt by MSTC, DA-IICT to encourage Open Source cont
 
 >We need a web developer :technologist: to help us solving these issues.
 
-><br><br>
 ### :hammer_and_wrench: Skills
 * HTML
 * CSS
