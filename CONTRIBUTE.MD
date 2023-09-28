@@ -36,10 +36,6 @@ git clone <cloning URL>
 ```bash
 cd <project directory>
 ```
-- To setup the react repo run the following command. It may take few minutes to install all dependencies.
-```bash
-npm install
-```
 - Add a reference of the source repository to make sure your local copy is up to date.
 ```bash
 git remote add upstream <source repository URL>
